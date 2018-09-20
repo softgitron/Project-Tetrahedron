@@ -4,7 +4,8 @@
 *"Pushes boundaries of the computer hardware"*
 
 ## What is Project Tetrahedron?
-Project Tetraedron is a desktop pc assembly and software project. Project started with three goals:
+Project Tetraedron is a desktop pc assembly and software project. Project started with three main goals:
+
 Computer should be...
 - almost compleatly silent
 - fully virtualised
@@ -19,8 +20,8 @@ This git is meant for advanced users that are interested about these categories:
 - Passive cooling
 - Linux
 - Virtualisation technologies
--- QEMU
--- KVM
+  - QEMU
+  - KVM
 - Remote desktop
 
 Guide is meant to be modular so if you are not interested about all the topics you shoul be able to easily read only parts you are interested in.
